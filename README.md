@@ -1,5 +1,5 @@
-# My-First-Repoitory
-this is my first repository
+# My-First-Repository
+This is my first repository
 <br>
 Author - Rudra verma
 
